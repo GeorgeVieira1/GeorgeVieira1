@@ -8,8 +8,7 @@
 <!--<div align="center">
 </div>-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeVieira1&show_icons=true&theme=dark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeVieira1&layout=compact&langs_count=7&theme=dark"/>
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeVieira1&layout=compact&langs_count=7&theme=dark"/><img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=USANDO+NO+MOMENTO:)](https://git.io/typing-svg)  
 [![My Skills](https://skillicons.dev/icons?i=js,postman,azure,selenium,gherkin,vscode,nodejs)](https://skillicons.dev)
